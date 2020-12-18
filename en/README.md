@@ -2,11 +2,11 @@
 
 This document explains the role of product owners in Scrum development.
 
-It is presumed that scrum masters will use this material to explain the necessary information to product owners. 
+It is assumed that scrum masters will use this material to explain to product owners.  
 
 The purposes of this document are as follows.
 - To ensure that product owners understand their role and take suitable action. 
-- To ensure that product owners understand their role and take suitable action. 
+- To help them understand the difference between a project manager and a product  owner and recognize the mindset of a product owner.   
 
 ## Accessing this document
 
